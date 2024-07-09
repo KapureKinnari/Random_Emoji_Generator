@@ -6,17 +6,16 @@
 }
 
 body {
-  background-color: rgb(26, 42, 56);
-  padding: 5rem 0;
+  padding: 6rem 0;
+  background-color:grey;
 }
 
 .container {
   max-width: 600px;
   margin: 0 auto;
-  background-color: #edebeb;
-  padding: 3rem;
-  border-radius: 0.5rem;
-  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  background-color: #ffffff;
+  padding: 50px;
+  border-radius: 125px;
   text-align: center;
 }
 
